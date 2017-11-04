@@ -1,14 +1,5 @@
 
-
-
-
-
 import java.util.Scanner;
-
-
-
-
-
 
 public class Students_of_Unipi {
 
